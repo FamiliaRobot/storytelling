@@ -7,7 +7,7 @@
 
 Nombre del Equipo: Familia Robot
 
-Proyecto Humanidad con validez para la Nueva Munda
+Proyecto: R2
 
 Resumen:  
 
