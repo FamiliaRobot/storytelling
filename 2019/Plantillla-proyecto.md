@@ -16,7 +16,7 @@ Resumen:
 
 - Personaje: Tongaki
 
-- Historia:Tongaki es una inteligencia artificial creada en el año 2423. Dos años antes de su nacimiento, una epidemia de origen desconocido empezó a afectar de forma masiva a ciertos mamíferos, con especial incidencia en individuos de tu especie.
+- Historia: Tongaki es una inteligencia artificial creada en el año 2423. Dos años antes de su nacimiento, una epidemia de origen desconocido empezó a afectar de forma masiva a ciertos mamíferos, con especial incidencia en individuos de tu especie.
 
 Los síntomas de esta enfermedad no solo incluían un fuerte y lento deterioro físico, si no también una potente e irremediable degeneración mental. Ante lo rápido de su contagio, las autoridades mundiales pronto encontraron una única solución...
 
